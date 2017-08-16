@@ -1,0 +1,3 @@
+[submodule "cuddly-pancake"]
+	path = cuddly-pancake
+	url = https://github.com/gvd/cuddly-pancake.git
